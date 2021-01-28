@@ -1,0 +1,9 @@
+.app-table {
+  width: 100%;
+  .right {
+    mat-cell {
+      text-align: right;
+      background: yellow;
+    }
+  }
+}

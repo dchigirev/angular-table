@@ -1,0 +1,12 @@
+.page {
+  padding: 50px;
+
+  .mat-column-symbol {
+    &.mat-header-cell, &.mat-cell {
+      text-align: right;
+      width: 600px;
+    }
+  }
+
+}
+
