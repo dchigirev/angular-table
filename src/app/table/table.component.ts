@@ -3,7 +3,6 @@ import { Component, Input } from '@angular/core';
 export interface Column {
   def: string;
   label: string;
-  style?: string;
 }
 
 export interface Row {
